@@ -1,0 +1,12 @@
+/**
+* Name: Keghvart Hagopian
+* Lab/task:Scanner2
+* Date: 10-4-17
+**/
+Script started on Tue 10 Oct 2017 11:24:58 PM PDT
+keghvart@keghvart-VirtualBox:~/Desktop/Lab1$ gcc main2.c scanner2.c
+keghvart@keghvart-VirtualBox:~/Desktop/Lab1$ ./a.out < input.txt scanner2.out
+keghvart@keghvart-VirtualBox:~/Desktop/Lab1$ exit
+exit
+
+Script done on Tue 10 Oct 2017 11:25:23 PM PDT
